@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    line-height: 130%; 
+    margin-top: 0;
+}
+
+html, body {
+    background-color: #1a1a1a;
+}
+
+::selection {
+    color: rgb(0, 47, 91);
+}

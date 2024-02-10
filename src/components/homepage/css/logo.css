@@ -1,0 +1,8 @@
+img.logo {
+    margin-left: 5%;
+    vertical-align: middle;
+    align-self: center;
+    user-select: none;
+}
+
+img.logo:hover { cursor: pointer; }
