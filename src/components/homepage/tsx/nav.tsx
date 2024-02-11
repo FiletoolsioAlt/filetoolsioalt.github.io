@@ -16,7 +16,6 @@ function Nav() {
                         <SearchBar />
                         <Login />
                         <Signup />
-                        <hr />
                 </nav>
             </>
         );
