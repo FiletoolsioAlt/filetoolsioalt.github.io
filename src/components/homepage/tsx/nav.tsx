@@ -4,6 +4,7 @@ import Pricing from './pricing.tsx';
 import Logo from './logo.tsx';
 import SearchBar from './searchBar.tsx';
 import Login from './login.tsx';
+import Signup from './signup.tsx';
 
 function Nav() {
         return (
@@ -14,6 +15,7 @@ function Nav() {
                         <Pricing />
                         <Advertise />
                         <Login />
+                        <Signup />
                 </nav>
             </>
         );
