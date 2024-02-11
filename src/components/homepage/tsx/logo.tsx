@@ -16,8 +16,8 @@ const Logo = () => {
             src={logo}
             alt='Logo'
             style={{
-                width: `${262 / 1.4}px`,
-                height: `${40 / 1.4}px`
+                width: `${262 / 1.5}px`,
+                height: `${40 / 1.5}px`
             }}
             onClick={redirectToHomepage}
         />
