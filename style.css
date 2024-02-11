@@ -6,8 +6,11 @@
 
 html, body {
     background-color: #1a1a1a;
+    width: 100%;
 }
 
 ::selection {
     color: rgb(0, 47, 91);
 }
+
+div { width: 100%; }
