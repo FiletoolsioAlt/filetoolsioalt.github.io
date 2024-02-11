@@ -12,5 +12,3 @@ html, body {
 ::selection {
     color: rgb(0, 47, 91);
 }
-
-div { width: 100%; }
