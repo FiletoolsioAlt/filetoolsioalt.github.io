@@ -11,9 +11,9 @@ function Nav() {
             <>
                <nav className='navbar'>
                         <Logo />
-                        <SearchBar />
                         <Pricing />
                         <Advertise />
+                        <SearchBar />
                         <Login />
                         <Signup />
                 </nav>
