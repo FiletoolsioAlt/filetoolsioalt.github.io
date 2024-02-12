@@ -2,6 +2,9 @@
     box-sizing: border-box;
     line-height: 130%; 
     margin-top: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
 }
 
 html, body {
@@ -11,3 +14,5 @@ html, body {
 ::selection {
     color: rgb(0, 47, 91);
 }
+
+div { width: 100%; }
