@@ -3,7 +3,7 @@
 button.signup {
     font-family: 'Poppins', sans-serif;
     color: white;
-    border: #2034e4;
+    border: #2034e4 1px solid;
     font-size: 13.3px;
     margin-top: 11.25px;
     margin-left: 5.5%;
