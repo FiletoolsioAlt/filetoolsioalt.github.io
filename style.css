@@ -2,6 +2,7 @@
     box-sizing: border-box;
     line-height: 130%; 
     margin-top: 0;
+    overflow: hidden;
 }
 
 html, body {
