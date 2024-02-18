@@ -5,12 +5,14 @@ button.signup {
     color: white;
     background: #add8e6;
     font-size: 13.3px;
-    margin-top: 21.25px;
+    margin-top: 11.25px;
     margin-left: 5.5%;
+    border: none;
 }
 
 button.signup:hover {
     cursor: pointer;
     background: #a3d6e7;
     font-size: 13.4px;
+    border: none;
 }
